@@ -14,3 +14,21 @@ pre {
   height: 0%;
   padding: 10px;
 }
+
+.tour-heading {
+  margin-top: 64px;
+  font-weight: 600;
+  font-size: 48px;
+  margin-bottom: 128px;
+}
+
+.table {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+table {
+  padding: 32px;
+}
